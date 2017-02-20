@@ -3,7 +3,7 @@
 //  testMac
 //
 //  Created by Vahid on 06/01/2017.
-//  Copyright © 2017 Mimos. All rights reserved.
+//  Copyright © 2017 Vahid. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
