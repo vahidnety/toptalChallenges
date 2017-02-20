@@ -89,7 +89,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
-				ORGANIZATIONNAME = Mimos;
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					1BF80E8A1E1FE639002CB795 = {
 						CreatedOnToolsVersion = 8.2;
@@ -217,7 +217,7 @@
 		1BF80E931E1FE639002CB795 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = K2R862H3J6;
+				DEVELOPMENT_TEAM = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -225,7 +225,7 @@
 		1BF80E941E1FE639002CB795 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = K2R862H3J6;
+				DEVELOPMENT_TEAM = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -249,6 +249,7 @@
 				1BF80E941E1FE639002CB795 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
