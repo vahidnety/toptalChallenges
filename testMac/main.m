@@ -215,6 +215,7 @@ long int solution10(NSString *A){
     }
     return k;
 }
+
 NSMutableArray * solution11(NSMutableArray *A){
     NSMutableArray *tempRes = [[NSMutableArray alloc] initWithArray:A];
     int arrInt;
